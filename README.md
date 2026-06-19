@@ -57,7 +57,7 @@ Construyo productos **end-to-end**: desde la app que usa el cajero hasta el back
 | **Automatización Retail (RPA)** 🔒 | Bots que sincronizan stock y precios ERP → WooCommerce, con bot auditor de control de calidad | Python · Selenium · pandas |
 | **[Mundial 2026](https://github.com/Bemlet/MUNDIAL2026)** ⚽ | App de fixture y simulador del Mundial: calendario, resultados en vivo, bracket y predicciones | Flutter · Dart · Material 3 |
 | **OmniFit** 💪 | App de fitness y nutrición con coach de IA | React Native · Expo · Supabase |
-| **Chatbot RAG para WordPress** 🤖 | Plugin con chatbot RAG sobre OpenAI: historial, audio y control de costos | PHP · OpenAI · RAG |
+| **Chatbot RAG para WordPress** 🔒 | Plugin con chatbot RAG sobre OpenAI: historial, audio y control de costos | PHP · OpenAI · RAG |
 
 > 🔒 = repositorio privado (proyecto de trabajo)
 
