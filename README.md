@@ -52,7 +52,8 @@ Construyo productos **end-to-end**: desde la app que usa el cajero hasta el back
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **PostaGo** 🔒 | POS nativo para Android con facturación electrónica ARCA/AFIP, control de caja y cierre Z | Kotlin · Jetpack Compose · Clean Architecture · Supabase |
+| **PostaGo** 🔒 | POS nativo para Android con facturación electrónica ARCA/AFIP, control de caja y cierre Z, + dashboard web de administración | Kotlin · Jetpack Compose · Clean Architecture · React · Supabase |
+| **WMS / Posta Scan** 🔒 | App de gestión de almacén integrada con hardware de escaneo industrial (NuStar) | Svelte · Rust · Python |
 | **Automatización Retail (RPA)** 🔒 | Bots que sincronizan stock y precios ERP → WooCommerce, con bot auditor de control de calidad | Python · Selenium · pandas |
 | **[Mundial 2026](https://github.com/Bemlet/MUNDIAL2026)** ⚽ | App de fixture y simulador del Mundial: calendario, resultados en vivo, bracket y predicciones | Flutter · Dart · Material 3 |
 | **OmniFit** 💪 | App de fitness y nutrición con coach de IA | React Native · Expo · Supabase |
